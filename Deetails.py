@@ -17,11 +17,6 @@ class Deetails:
         return f"{self.name} sent {self.name2} {self.amount}."
 
 
-#var = Detai()
-
-#print(var.transactionDetails())
-
-
 
 
 
